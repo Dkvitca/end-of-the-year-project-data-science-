@@ -4,7 +4,7 @@ By:Tomer Yaish, Dan Kvitca
 
 Subject: prediciton of new video games success (success==selling more than 1,000,000 copys)
 Language: Python 100%
-libraries:Pandas,Numpy,Seaborn,Matplotlib,Yellowbrick for Sickilearn,Sickitlearn,BeautifulSoup
+libraries:Pandas,Numpy,Seaborn,Matplotlib,Yellowbrick for Sklearn,Sklearn,BeautifulSoup
 
 
 
